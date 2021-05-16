@@ -1,0 +1,8 @@
+name: AutoVanish
+version: 1.0
+main: me.teakivy.autovanish.AutoVanish
+api-version: 1.16
+prefix: AV
+authors: [ TeakIvy ]
+description: Automagically Vanish!
+website: https://youtube.com/teakivy
